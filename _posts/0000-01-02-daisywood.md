@@ -2,4 +2,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+daisy is getting the hang of it: SAY WHAT
